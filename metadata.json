@@ -1,0 +1,5 @@
+{
+  "name": "DevFlow Agent",
+  "description": "An agentic AI architect that forces clarity before code. It evaluates architectural pipelines and generates execution blueprints.",
+  "requestFramePermissions": []
+}
